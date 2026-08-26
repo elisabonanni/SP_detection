@@ -1,2 +1,4 @@
-# SP_detection
-Predicting secretory signal peptides in proteins with different embeddings and computational methods
+# **Predicting secretory signal peptides in proteins with different embeddings and computational methods**
+
+Recognizing the presence of the signal peptide provides valuable insights about the protein's potential function and its subcellular localization. Since the number of protein sequences entering yearly into data banks has rapidly increased, it is time consuming and expansive to identify the signal peptides entirely experimentally, so, developing an automated approach for rapid and reliable prediction of the SP is a highly desirable goal.
+This work presents the implementation and comparison of three methods for signal peptide detection in protein sequences: a simple statistical approach based on the von Heijne model, a machine learning method using Support Vector Machines (SVM) trained on hand-crafted sequence features and a second SVM trained on protein embeddings extracted with ESM-2 language model. The results obtained demonstrate a good performance for all the methods, with the latter showing lower error. For the three models, most of the false positives were found to be associated with transmembrane sequences, probably due to the similarity with the hydrophobic region of the signal peptides.
