@@ -1,0 +1,57 @@
+Optimal Threshold: 8.207403273871364
+
+Confusion Matrix:
+[[1367   85]
+ [  33  143]]
+
+TN:1367, FP:85, FN:33, TP:143
+
+Accuracy: 0.9275, Sensitivity:0.8125, PPV: 0.6272, MCC: 0.6746, F1 Score: 0.7079
+
+Optimal Threshold: 10.426985146634756
+
+Confusion Matrix:
+[[1419   33]
+ [  80   96]]
+
+TN:1419, FP:33, FN:80, TP:96
+
+Accuracy: 0.9306, Sensitivity:0.5455, PPV: 0.7442, MCC: 0.6009, F1 Score: 0.6295
+
+Optimal Threshold: 8.959721617474276
+
+Confusion Matrix:
+[[1396   56]
+ [  54  122]]
+
+TN:1396, FP:56, FN:54, TP:122
+
+Accuracy: 0.9324, Sensitivity:0.6932, PPV: 0.6854, MCC: 0.6514, F1 Score: 0.6893
+
+Optimal Threshold: 7.452312783602842
+
+Confusion Matrix:
+[[1324  128]
+ [  25  151]]
+
+TN:1324, FP:128, FN:25, TP:151
+
+Accuracy: 0.9060, Sensitivity:0.8580, PPV: 0.5412, MCC: 0.6343, F1 Score: 0.6637
+
+Optimal Threshold: 8.793783921052345
+
+Confusion Matrix:
+[[1388   65]
+ [  39  138]]
+
+TN:1388, FP:65, FN:39, TP:138
+
+Accuracy: 0.9362, Sensitivity:0.7797, PPV: 0.6798, MCC: 0.6925, F1 Score: 0.7263
+
+Average Threshold: 8.7680
+Average Accuracy: 0.9266 ± 0.0048
+Average Sensitivity: 0.7378 ± 0.0493
+Average PPV: 0.6556 ± 0.0305
+Average MCC: 0.6507 ± 0.0142
+Average F1 Score: 0.6833 ± 0.0152 
+

@@ -1,0 +1,7 @@
+The used threshold is: 8.768041348527117
+Confusion Matrix:
+[[1743   72]
+ [  48  172]]
+TN:1743, FP:72, FN:48, TP:172
+Accuracy: 0.9410, Sensitivity:0.7818, PPV: 0.7049, MCC: 0.7094, F1 Score: 0.7414
+
